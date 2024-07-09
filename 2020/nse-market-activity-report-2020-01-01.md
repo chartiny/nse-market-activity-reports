@@ -1,13 +1,8 @@
 
 
 
-|  | 01-Jan-2020 |
-| ----- | ----- |
-|  | Traded Value (Rs. In Crores) | 20768.38 |
-|  | Traded Quantity (in Lakhs) | 10647.61 |
-|  | Number of Trades | 6901964 |
-|  | Total Market Capitalisation (Rs. Crores) | 15461230.78 |
 |  | INDEX | PREVIOUS CLOSE | OPEN | HIGH | LOW | CLOSE | GAIN/LOSS |
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 |  | Nifty 50 | 12168.45 | 12202.15 | 12222.20 | 12165.30 | 12182.50 | 14.05 |
 |  | NIFTY50 EQL Wgt | 12427.20 | 12459.25 | 12476.40 | 12412.15 | 12432.65 | 5.45 |
 |  | NIFTY100 EQL Wgt | 13389.65 | 13419.55 | 13448.20 | 13376.10 | 13387.80 | -1.85 |
@@ -63,11 +58,6 @@
 |  | Nifty GS 11 15Yr | 2161.19 | 2161.62 | 2171.13 | 2161.62 | 2170.73 | 9.54 |
 |  | Nifty GS 15YrPlus | 2334.95 | 2335.41 | 2339.83 | 2335.41 | 2339.83 | 4.88 |
 |  | Nifty GS Compsite | 2057.40 | 2057.79 | 2064.27 | 2057.79 | 2063.74 | 6.34 |
-|  | ADVANCES | 1021 |
-|  | DECLINES | 759 |
-|  | UNCHANGED | 130 |
-|  | Total securities that have hit their price bands today | 332 |
-|  | TOP 25 Securities Today : |
 |  | SYMBOL | SERIES | PREV. CLOSE | CLOSE PRICE | %VAR | VALUE(Rs Crs) |
 |  | RELIANCE | EQ | 1514.05 | 1509.60 | -0.29 | 970.11 |
 |  | SBIN | EQ | 333.75 | 334.45 | 0.21 | 580.51 |
@@ -94,21 +84,18 @@
 |  | HDFCBANK | EQ | 1272.10 | 1278.60 | 0.51 | 234.5 |
 |  | BHARTIARTL | EQ | 455.80 | 453.30 | -0.55 | 229.99 |
 |  | HDFC | EQ | 2412.55 | 2433.95 | 0.89 | 229.45 |
-|  | Top Five Nifty 50 Gainers: |
 |  | SYMBOL | SERIES | CLOSE PRICE | PREV.CLOSE | %CHANGE |
 |  | ADANIPORTS | EQ | 377.65 | 366.00 | 3.18 |
 |  | POWERGRID | EQ | 195.50 | 190.25 | 2.76 |
 |  | NTPC | EQ | 121.55 | 119.05 | 2.1 |
 |  | VEDL | EQ | 154.60 | 152.45 | 1.41 |
 |  | M&M | EQ | 536.60 | 531.55 | .95 |
-|  | Top Five Nifty 50 Losers: |
 |  | SYMBOL | SERIES | CLOSE PRICE | PREV.CLOSE | %CHANGE |
 |  | TITAN | EQ | 1154.75 | 1187.95 | -2.79 |
 |  | EICHERMOT | EQ | 22075.80 | 22515.25 | -1.95 |
 |  | INDUSINDBK | EQ | 1484.30 | 1510.00 | -1.7 |
 |  | ZEEL | EQ | 288.65 | 292.20 | -1.21 |
 |  | BAJAJ-AUTO | EQ | 3150.10 | 3185.00 | -1.1 |
-|  | Securities Price Volume Data in Normal market |
 |  | SYMBOL | SERIES | CLOSE PRICE | TRADED VALUE | TRADED QUANTITY |
 |  | 20MICRONS | EQ | 35.80 | 1764577.10 | 49077 |
 |  | 3IINFOTECH | EQ | 2.00 | 1595812.95 | 800982 |
