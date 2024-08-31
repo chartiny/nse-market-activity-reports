@@ -21,6 +21,11 @@
 | 14 | 2024-08-21 | Wednesday | [CSV](2024/nse-market-activity-report-2024-08-21.csv)<br>172 kB | [MD](2024/nse-market-activity-report-2024-08-21.md)<br>143 kB |
 | 15 | 2024-08-22 | Thursday | [CSV](2024/nse-market-activity-report-2024-08-22.csv)<br>174 kB | [MD](2024/nse-market-activity-report-2024-08-22.md)<br>145 kB |
 | 16 | 2024-08-23 | Friday | [CSV](2024/nse-market-activity-report-2024-08-23.csv)<br>172 kB | [MD](2024/nse-market-activity-report-2024-08-23.md)<br>143 kB |
+| 17 | 2024-08-26 | Monday | [CSV](2024/nse-market-activity-report-2024-08-26.csv)<br>176 kB | [MD](2024/nse-market-activity-report-2024-08-26.md)<br>147 kB |
+| 18 | 2024-08-27 | Tuesday | [CSV](2024/nse-market-activity-report-2024-08-27.csv)<br>173 kB | [MD](2024/nse-market-activity-report-2024-08-27.md)<br>144 kB |
+| 19 | 2024-08-28 | Wednesday | [CSV](2024/nse-market-activity-report-2024-08-28.csv)<br>173 kB | [MD](2024/nse-market-activity-report-2024-08-28.md)<br>144 kB |
+| 20 | 2024-08-29 | Thursday | [CSV](2024/nse-market-activity-report-2024-08-29.csv)<br>173 kB | [MD](2024/nse-market-activity-report-2024-08-29.md)<br>144 kB |
+| 21 | 2024-08-30 | Friday | [CSV](2024/nse-market-activity-report-2024-08-30.csv)<br>172 kB | [MD](2024/nse-market-activity-report-2024-08-30.md)<br>144 kB |
 
 
 
