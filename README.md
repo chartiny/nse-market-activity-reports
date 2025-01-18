@@ -13,6 +13,11 @@
 | 6 | 2025-01-08 | Wednesday | [CSV](2025/nse-market-activity-report-2025-01-08.csv)<br>184 kB | [MD](2025/nse-market-activity-report-2025-01-08.md)<br>153 kB |
 | 7 | 2025-01-09 | Thursday | [CSV](2025/nse-market-activity-report-2025-01-09.csv)<br>182 kB | [MD](2025/nse-market-activity-report-2025-01-09.md)<br>151 kB |
 | 8 | 2025-01-10 | Friday | [CSV](2025/nse-market-activity-report-2025-01-10.csv)<br>183 kB | [MD](2025/nse-market-activity-report-2025-01-10.md)<br>153 kB |
+| 9 | 2025-01-13 | Monday | [CSV](2025/nse-market-activity-report-2025-01-13.csv)<br>186 kB | [MD](2025/nse-market-activity-report-2025-01-13.md)<br>154 kB |
+| 10 | 2025-01-14 | Tuesday | [CSV](2025/nse-market-activity-report-2025-01-14.csv)<br>181 kB | [MD](2025/nse-market-activity-report-2025-01-14.md)<br>151 kB |
+| 11 | 2025-01-15 | Wednesday | [CSV](2025/nse-market-activity-report-2025-01-15.csv)<br>182 kB | [MD](2025/nse-market-activity-report-2025-01-15.md)<br>151 kB |
+| 12 | 2025-01-16 | Thursday | [CSV](2025/nse-market-activity-report-2025-01-16.csv)<br>180 kB | [MD](2025/nse-market-activity-report-2025-01-16.md)<br>149 kB |
+| 13 | 2025-01-17 | Friday | [CSV](2025/nse-market-activity-report-2025-01-17.csv)<br>182 kB | [MD](2025/nse-market-activity-report-2025-01-17.md)<br>151 kB |
 
 
 
